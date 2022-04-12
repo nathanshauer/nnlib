@@ -1,0 +1,1 @@
+add_library(nnlib ${nnlib_files})
